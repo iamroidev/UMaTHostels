@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "UMAT Hostels",
+    "slug": "umat-hostels", 
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1B365D"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1B365D"
+      }
+    }
+  }
+}
